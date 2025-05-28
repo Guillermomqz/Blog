@@ -50,7 +50,7 @@ uploadForm.addEventListener("submit", function (e) {
         <span><i class="fa-solid fa-retweet"></i> ${formatNumber(reposts)}</span>
         <span class="save-icon"><i class="fa-regular fa-bookmark"></i></span>
       </div>
-      <p><span class="username">Perrita</span> ${captionInput.value} <span class="emoji">❤️</span></p>
+      <p><span class="username">Perrita</span> ${captionInput.value} <span class="emoji">🫣</span></p>
       <button class="delete-btn" onclick="this.parentElement.remove()">Eliminar</button>
     `;
 
